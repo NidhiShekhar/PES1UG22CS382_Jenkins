@@ -5,7 +5,7 @@ pipeline {
             steps {
                 script {
                     build 'PES1UG22CS382-1'
-                    sh 'g++ -o randomfile PES1UG22CS382.cpp' 
+                    sh 'g++ -o randomfile dog.cpp' 
                 }
             }
         }
