@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(void) {
-    cout << "PES1UG22CS680 and his cat, Cheeku!\n";
+    cout << "PES1UG22CS382 is nidhi shekhar!\n";
 }
